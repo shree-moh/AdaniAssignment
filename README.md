@@ -1,0 +1,2 @@
+# AdaniAssignment
+Nobel prizes are awarded jointly to one or more research teams in each category.     For e.g. In 2019, The Nobel Prize in Physics 2019 was awarded for theoretical discoveries in physical cosmology with one half to James Peebles, the other half jointly to Michel Mayor and Didier Queloz for the discovery of an exoplanet orbiting a solar-type star.     James Peebles’ prize share is 1/2 and Michel Mayor got 1/4 and Didier Queloz got 1/4 of the reward.     Write a JavaScript function which takes awards as a single argument and return prize array back.
