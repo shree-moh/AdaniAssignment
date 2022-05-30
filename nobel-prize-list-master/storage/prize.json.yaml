@@ -1,0 +1,86 @@
+prizes:
+- year: "2019"
+  category: physics
+  laureates:
+  
+    firstname: james
+    surname: peebles
+    motivation: '"Theoretical discoveries in physical cosmology"'
+    share: "3"
+  
+    firstname: michel
+    surname:  Mayor
+    motivation: '"Discovery of an exoplanet orbiting a solar-type star"'
+    share: "3"
+
+    firstname:Didier
+    surname:  Mayor
+    motivation: '"Discovery of an exoplanet orbiting a solar-type star"'
+    share: "3"
+
+
+
+    - year: "2019"
+  category: chemistry
+  laureates:
+  
+    firstname: john B.
+    surname: Goodenough
+    motivation: '"Development of lithium-ion batteries"'
+    share: "3"
+  
+    firstname: M. Stanley 
+    surname:  Whittingham
+    motivation: '"Development of lithium-ion batteries"'
+    share: "3"
+
+    firstname: Akira 
+    surname:  Yoshino 
+    motivation: '"Development of lithium-ion batteries"'
+    share: "3"
+
+
+    - year: "2018"
+  category: physics
+  laureates:
+  
+    firstname: Arthur
+    surname: Ashkin
+    motivation: '"Optical tweezers and their application to biological systems"'
+    share: "3"
+  
+    firstname: Gerard
+    surname:  Mourou
+    motivation: '"Method of generating high-intensity, ultra-short optical pulses"'
+    share: "3"
+
+    firstname: Donna
+    surname: Strickland
+    motivation: '"Method of generating high-intensity, ultra-short optical pulses"'
+    share: "3"
+
+
+
+ - year: "2018"
+  category: chemistry
+  laureates:
+  
+    firstname: Frances H. 
+    surname: Arnold
+    motivation: '"Directed evolution of enzymes"'
+    share: "3"
+  
+    firstname: George P
+    surname:  Smith
+    motivation: '"Phage display of peptides and antibodies"'
+    share: "3"
+
+    firstname: Sir Gregory P. 
+    surname: Winter
+    motivation: '"Phage display of peptides and antibodies"'
+    share: "3"
+
+
+
+
+   
